@@ -1,0 +1,4405 @@
+{
+  "brand_id": "3135",
+  "store_id": "48468881",
+  "header": {
+    "title": "Rey Burger",
+    "cover": "https://http2.mlstatic.com/D_NQ_NP_904368-MLA51739319839_092022-O.jpg",
+    "title_pinned": false,
+    "more_info_button": {
+      "deeplink": "mercadopago://proximity_marketplace/store?store_id=48468881&skeleton_id=store_detail&content_type=store_detail&product_type=delivery#from=/discount_center_payers/store",
+      "image": "discount_payers_store_more_info",
+      "color": "#ffffff",
+      "accessibility_description": "Más información del local."
+    }
+  },
+  "main_description": {
+    "sections": [
+      {
+        "id": "header_Rey Burger",
+        "type": "header",
+        "segment_id": "header",
+        "content": {
+          "logo": "https://http2.mlstatic.com/D_NQ_NP_944047-MLA51739381229_092022-O.jpg",
+          "title": "Rey Burger",
+          "subtitle": "Hamburguesa",
+          "review": {
+            "rating": "3.7 (265)",
+            "icon": "discount_payers_rating_blue",
+            "secondary_icon": "discount_payers_right_chevron",
+            "deeplink": "mercadopago://webview/?url=https%3A%2F%2Fmercadopago.com.ar%2Fmenu%2Frating-review%2F48468881&hidden_header=true",
+            "style": {
+              "text_color": "#009EE3",
+              "background_color": "#479AD1"
+            },
+            "accessibility_description": "Calificación promedio 3.7 sobre cinco estrellas. 265 calificaciones en total."
+          }
+        }
+      },
+      {
+        "id": "discount_group_48468881",
+        "type": "discount_group",
+        "content": {
+          "pills": [
+            {
+              "text": "$ 750 OFF · MÍNIMO $ 1.000",
+              "text_color": "#ffffff",
+              "background_color": "#00A650"
+            }
+          ],
+          "more_info_pill": {
+            "text": "+1 promo",
+            "text_color": "#009EE3",
+            "icon": "discount_payers_right_chevron"
+          },
+          "sections": [
+            {
+              "id": "purchase_title",
+              "type": "title",
+              "content": {
+                "title": {
+                  "text": "Descuentos en toda tu compra",
+                  "text_color": "#000000"
+                },
+                "subtitle": {
+                  "text": "Si hay más de uno disponible se aplicará el mejor sobre el total de tu pago. Este beneficio no aplica sobre el costo de envío si lo hubiere.",
+                  "text_color": "#8C8C8C"
+                }
+              }
+            },
+            {
+              "id": "discount1_10451805",
+              "type": "discount",
+              "content": {
+                "header": {
+                  "title": "Compras",
+                  "subtitle": "mayores a $ 1.000",
+                  "amount": "$ 750"
+                },
+                "messages": [
+                  {
+                    "label": "Descuento disponible hasta el 30/04/2023"
+                  }
+                ],
+                "format": {
+                  "text_color": "#323232",
+                  "background_color": "#ffffff",
+                  "border": {
+                    "color": "#EDEDED",
+                    "width": 1
+                  }
+                },
+                "accessory_info": {
+                  "legal_term_icon": "discount_payers_info_white",
+                  "legal_term_link": "mercadopago://webview?url=https%3A%2F%2Fapi.mercadopago.com%2Fv2%2Fdiscounts%2Fcampaign%2F10451805%2Fterms%2Fhtml%3FonlyContent%3Dtrue&title=T%C3%A9rminos%20y%20condiciones",
+                  "accessibility_description": "Información sobre los términos y condiciones."
+                }
+              }
+            },
+            {
+              "id": "purchase_title",
+              "type": "title",
+              "content": {
+                "title": {
+                  "text": "Descuentos en productos",
+                  "text_color": "#000000"
+                },
+                "subtitle": {
+                  "text": "Verás el descuento aplicado sobre los ítems en promoción. Es acumulable con los descuentos en toda tu compra.",
+                  "text_color": "#8C8C8C"
+                }
+              }
+            },
+            {
+              "id": "item_discount_MLA1246670664",
+              "type": "discount",
+              "content": {
+                "header": {
+                  "title": "OFF",
+                  "amount": "Hasta 38%"
+                },
+                "messages": [
+                  {
+                    "label": "Sin tope de descuento"
+                  }
+                ],
+                "format": {
+                  "text_color": "#323232",
+                  "background_color": "#ffffff",
+                  "border": {
+                    "color": "#EDEDED",
+                    "width": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "more_info_separator",
+        "type": "separator",
+        "content": {
+          "height": 16,
+          "color": "#F5F5F5"
+        }
+      }
+    ]
+  },
+  "catalog": {
+    "filters": {
+      "search": true,
+      "search_icon": "discounts_payers_search_small"
+    },
+    "groups": [
+      {
+        "id": "combos mundiales",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Combos Mundiales",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246734464",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "2 Hamb. Arg Mundial+ Papas M C/cheddar+ 1 Chocotorta"
+              ],
+              "title": {
+                "text": "2 Hamb. Arg Mundial+ Papas M C/cheddar+ 1 Chocotorta",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "2 hamburguesas completas con jamón y queso acompañadas de papas con cheddar",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 2.912"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246734464&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246734464",
+                  "name": "2 Hamb. Arg Mundial+ Papas M C/cheddar+ 1 Chocotorta",
+                  "price": "$ 2.912",
+                  "category": "combos mundiales",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "combos mundiales",
+            "type": "list",
+            "index": 0
+          }
+        }
+      },
+      {
+        "id": "combos para compartir",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Combos para compartir",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246670664",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Promo Mpx2 2 King +papas M C/cheddar+chocotorta"
+              ],
+              "title": {
+                "text": "Promo Mpx2 2 King +papas M C/cheddar+chocotorta",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "2 hamburguesas king ( cheddar, bacon y cebolla asada)+ 1 papas c/ cheddar medianas + 1 chocotorta p/compartir",
+                "text_color": "#8C8C8C"
+              },
+              "top_label": {
+                "text": "$ 3.250",
+                "text_color": "#8C8C8C",
+                "background_color": "#ffffff",
+                "strikethrough": true
+              },
+              "main_label": {
+                "text": "$ 2.000",
+                "text_color": "#333333"
+              },
+              "secondary_label": {
+                "text": "38% OFF",
+                "text_color": "#00A650"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670664&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246670664",
+                  "name": "Promo Mpx2 2 King +papas M C/cheddar+chocotorta",
+                  "price": "$ 3.250",
+                  "price_with_discount": "$ 2.000",
+                  "discount": "38% OFF",
+                  "category": "combos para compartir",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219662",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Promo Mpx4 4 Crispy King+papas M C/cheddar+ 2 Oreo"
+              ],
+              "title": {
+                "text": "Promo Mpx4 4 Crispy King+papas M C/cheddar+ 2 Oreo",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "4 hamburguesas de pollo crispy king + 1 papas grandes c/ cheddar + 2 choco oreo p/ compartir",
+                "text_color": "#8C8C8C"
+              },
+              "top_label": {
+                "text": "$ 6.000",
+                "text_color": "#8C8C8C",
+                "background_color": "#ffffff",
+                "strikethrough": true
+              },
+              "main_label": {
+                "text": "$ 3.800",
+                "text_color": "#333333"
+              },
+              "secondary_label": {
+                "text": "36% OFF",
+                "text_color": "#00A650"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219662&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246219662",
+                  "name": "Promo Mpx4 4 Crispy King+papas M C/cheddar+ 2 Oreo",
+                  "price": "$ 6.000",
+                  "price_with_discount": "$ 3.800",
+                  "discount": "36% OFF",
+                  "category": "combos para compartir",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "combos para compartir",
+            "type": "list",
+            "index": 1
+          }
+        }
+      },
+      {
+        "id": "promos para 1",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Promos para 1",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246670665",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburgues Del Rey Con Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamburgues Del Rey Con Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa de carne con cheddar, bacon y cebolla asada, acompañada de papas pequeñas",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.400"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670665&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246670665",
+                  "name": "Hamburgues Del Rey Con Papas Pequeñas",
+                  "price": "$ 1.400",
+                  "category": "promos para 1",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206816",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa De Pollo Completa Con Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamburguesa De Pollo Completa Con Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa de pollo marinado completa; con lechuga, tomate y queso. Acompañada de papas pequeñas con cheddar",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.150"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206816&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246206816",
+                  "name": "Hamburguesa De Pollo Completa Con Papas Pequeñas",
+                  "price": "$ 1.150",
+                  "category": "promos para 1",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246670666",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Sándwich De Milanesa Supremo Con Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Sándwich De Milanesa Supremo Con Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de milanesa supremo con lechuga, huevo, queso y tomate. Acompañado de papas pequeñas",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.500"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670666&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246670666",
+                  "name": "Sándwich De Milanesa Supremo Con Papas Pequeñas",
+                  "price": "$ 1.500",
+                  "category": "promos para 1",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "promos para 1",
+            "type": "list",
+            "index": 2
+          }
+        }
+      },
+      {
+        "id": "promos para 2",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Promos para 2",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246638342",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "2 Hamb Doble Carne&queso + 1 Papas Chedar Med.+ 1 Copaoreo"
+              ],
+              "title": {
+                "text": "2 Hamb Doble Carne&queso + 1 Papas Chedar Med.+ 1 Copaoreo",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "2 Hamburguesas doble carne, doble cheese, acompañadas de una porción de papas con cheddar mediana y una copa oreo para compartir",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 3.500"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638342&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246638342",
+                  "name": "2 Hamb Doble Carne&queso + 1 Papas Chedar Med.+ 1 Copaoreo",
+                  "price": "$ 3.500",
+                  "category": "promos para 2",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219663",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "2 Hamburguesas C/queso+ 1 Papas Medianas + 1 Copa Oreo"
+              ],
+              "title": {
+                "text": "2 Hamburguesas C/queso+ 1 Papas Medianas + 1 Copa Oreo",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "2 Hamburguesas con queso acompañadas de unas papas medianas y una copa oreo para compartir.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 2.450"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219663&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246219663",
+                  "name": "2 Hamburguesas C/queso+ 1 Papas Medianas + 1 Copa Oreo",
+                  "price": "$ 2.450",
+                  "category": "promos para 2",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239032",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "2 Hamb Napoli+ 8 Aros+ 1 Papas Med+ 1 Chocotorta"
+              ],
+              "title": {
+                "text": "2 Hamb Napoli+ 8 Aros+ 1 Papas Med+ 1 Chocotorta",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "2 Hamburguesas de carne con albahaca y queso muzzarella gratinado, acompañadas de 8 aros de cebolla, una porción de papas fritas mediana y una porción de chocotorta para compartir",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 3.600"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239032&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246239032",
+                  "name": "2 Hamb Napoli+ 8 Aros+ 1 Papas Med+ 1 Chocotorta",
+                  "price": "$ 3.600",
+                  "category": "promos para 2",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753769",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "2 Sand De Milanesa Del Rey+ 1 Papas Grandes C/ Cheddar"
+              ],
+              "title": {
+                "text": "2 Sand De Milanesa Del Rey+ 1 Papas Grandes C/ Cheddar",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "2 Sándwiches de milanesa del rey con cheddar, bacon y cebolla asada. Acompañados con una porción grande de papas con cheddar.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 3.400"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753769&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246753769",
+                  "name": "2 Sand De Milanesa Del Rey+ 1 Papas Grandes C/ Cheddar",
+                  "price": "$ 3.400",
+                  "category": "promos para 2",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638343",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Tabla Para Picar+ 1 Papas Med C/cheddar+ 2 Quilmes"
+              ],
+              "title": {
+                "text": "Tabla Para Picar+ 1 Papas Med C/cheddar+ 2 Quilmes",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Picada para 2 personas: 20 nuggets, 16 aros de cebolla y 4 bastones de muzzarella acompañados de unas papas medianas con cheddar y 2 cervezas Quilmes 500cc",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 3.500"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638343&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246638343",
+                  "name": "Tabla Para Picar+ 1 Papas Med C/cheddar+ 2 Quilmes",
+                  "price": "$ 3.500",
+                  "category": "promos para 2",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "promos para 2",
+            "type": "list",
+            "index": 3
+          }
+        }
+      },
+      {
+        "id": "promos para 4",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Promos para 4",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246670668",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "4 Hamb Del Rey+ 1 Papas Gr+ 1 Pepsi 1.5+ 2 Postres"
+              ],
+              "title": {
+                "text": "4 Hamb Del Rey+ 1 Papas Gr+ 1 Pepsi 1.5+ 2 Postres",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "4 Hamburguesas de carne con cheddar, bacon y cebolla asada,. Aompañadas de una porción de papas grandes, una pepsi 1.5, una copa oreo y 1chocotorta para compartir",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 6.999"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670668&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246670668",
+                  "name": "4 Hamb Del Rey+ 1 Papas Gr+ 1 Pepsi 1.5+ 2 Postres",
+                  "price": "$ 6.999",
+                  "category": "promos para 4",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246200409",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "2 H. Doble+ 2 H. Napoli+ 2 Papas Gr+ 2 Postres"
+              ],
+              "title": {
+                "text": "2 H. Doble+ 2 H. Napoli+ 2 Papas Gr+ 2 Postres",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "2 Hamburguesas doble carne, doble cheese junto con 2 hamburguesas Napoli (con albahaca y queso muzzarella gratinado). Acompañadas de 2 porciones de papas fritas grandes, una porción de chocotorta y una copa oreo para compartir.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 7.450"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200409&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246200409",
+                  "name": "2 H. Doble+ 2 H. Napoli+ 2 Papas Gr+ 2 Postres",
+                  "price": "$ 7.450",
+                  "category": "promos para 4",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "promos para 4",
+            "type": "list",
+            "index": 4
+          }
+        }
+      },
+      {
+        "id": "promos para 10",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Promos para 10",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246618946",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "5 Hamb. Porteñas+ 5 Hamb. Classic+ 3 Papas Grandes"
+              ],
+              "title": {
+                "text": "5 Hamb. Porteñas+ 5 Hamb. Classic+ 3 Papas Grandes",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "5 Hamburguesas Porteña (con queso dambo y huevo a la plancha) junto con 5 hamburguesas Classic (con queso dambo y jamón). Acompañadas de 3 porciones de papas grandes.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 12.000"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246618946&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246618946",
+                  "name": "5 Hamb. Porteñas+ 5 Hamb. Classic+ 3 Papas Grandes",
+                  "price": "$ 12.000",
+                  "category": "promos para 10",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "promos para 10",
+            "type": "list",
+            "index": 5
+          }
+        }
+      },
+      {
+        "id": "hamburguesas del rey",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Hamburguesas del Rey",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246734466",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Boston Blue"
+              ],
+              "title": {
+                "text": "Hamburguesa Boston Blue",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa de carne 125 gr, con roquefort gratinado y rúcula",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.100"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246734466&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246734466",
+                  "name": "Hamburguesa Boston Blue",
+                  "price": "$ 1.100",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753770",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa California"
+              ],
+              "title": {
+                "text": "Hamburguesa California",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa de carne 125 gr. Con guacamole, cheddar y aros de cebolla fritos",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.200"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753770&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246753770",
+                  "name": "Hamburguesa California",
+                  "price": "$ 1.200",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219664",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Classic"
+              ],
+              "title": {
+                "text": "Hamburguesa Classic",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa 125 gr.  Con queso dambo y jamón",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 890"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219664&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246219664",
+                  "name": "Hamburguesa Classic",
+                  "price": "$ 890",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239033",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Del Rey"
+              ],
+              "title": {
+                "text": "Hamburguesa Del Rey",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa 125 gr. Con cheddar, bacon y cebolla asada",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.100"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239033&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246239033",
+                  "name": "Hamburguesa Del Rey",
+                  "price": "$ 1.100",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753771",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Doble Carne Doble Cheese"
+              ],
+              "title": {
+                "text": "Hamburguesa Doble Carne Doble Cheese",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa doble carne 125 gr y doble queso gratinado",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.350"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753771&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246753771",
+                  "name": "Hamburguesa Doble Carne Doble Cheese",
+                  "price": "$ 1.350",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638345",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Doble Extremo Cheddar"
+              ],
+              "title": {
+                "text": "Hamburguesa Doble Extremo Cheddar",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa doble carne 125 gr y triple cheddar",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.487"
+              },
+              "accessory_main_label": {
+                "text": "20",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638345&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 5,
+                  "item_id": "MLA1246638345",
+                  "name": "Hamburguesa Doble Extremo Cheddar",
+                  "price": "$ 1.487.20",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219665",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Doble Florida"
+              ],
+              "title": {
+                "text": "Hamburguesa Doble Florida",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Doble hamburguesa 125 gr. Con cheddar, roquefort, queso dambo y parmesano",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.550"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219665&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 6,
+                  "item_id": "MLA1246219665",
+                  "name": "Hamburguesa Doble Florida",
+                  "price": "$ 1.550",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239034",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Doble Full Cheddar"
+              ],
+              "title": {
+                "text": "Hamburguesa Doble Full Cheddar",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Doble hamburguesa 125 gr. Con doble cheddar y salsa de cheddar",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.500"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239034&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 7,
+                  "item_id": "MLA1246239034",
+                  "name": "Hamburguesa Doble Full Cheddar",
+                  "price": "$ 1.500",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246734467",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Doble Rey"
+              ],
+              "title": {
+                "text": "Hamburguesa Doble Rey",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Doble hamburguesa 125 gr. Con doble cheddar, bacon y cebolla asada",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.430"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246734467&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 8,
+                  "item_id": "MLA1246734467",
+                  "name": "Hamburguesa Doble Rey",
+                  "price": "$ 1.430",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689717",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Guadalajara"
+              ],
+              "title": {
+                "text": "Hamburguesa Guadalajara",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa de carne 125 gr. Con guacamole, nachos, cheddar y salsa picante",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.250"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689717&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 9,
+                  "item_id": "MLA1246689717",
+                  "name": "Hamburguesa Guadalajara",
+                  "price": "$ 1.250",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753773",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Napoli"
+              ],
+              "title": {
+                "text": "Hamburguesa Napoli",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa de carne 125 gr, con albahaca y queso muzzarella gratinado",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 900"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753773&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 10,
+                  "item_id": "MLA1246753773",
+                  "name": "Hamburguesa Napoli",
+                  "price": "$ 900",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753774",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Porteña"
+              ],
+              "title": {
+                "text": "Hamburguesa Porteña",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa 125 gr. Con queso dambo y huevo a la plancha",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.050"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753774&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 11,
+                  "item_id": "MLA1246753774",
+                  "name": "Hamburguesa Porteña",
+                  "price": "$ 1.050",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246670669",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Texas"
+              ],
+              "title": {
+                "text": "Hamburguesa Texas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa de carne 125 gr. Con cheddar y aros de cebolla fritos",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.250"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670669&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 12,
+                  "item_id": "MLA1246670669",
+                  "name": "Hamburguesa Texas",
+                  "price": "$ 1.250",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753775",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Triple Full Cheddar"
+              ],
+              "title": {
+                "text": "Hamburguesa Triple Full Cheddar",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Triple hamburguesa 125 gr. Con triple cheddar y salsa de cheddar",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 2.002"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753775&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 13,
+                  "item_id": "MLA1246753775",
+                  "name": "Hamburguesa Triple Full Cheddar",
+                  "price": "$ 2.002",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246734468",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamburguesa Triple Rey"
+              ],
+              "title": {
+                "text": "Hamburguesa Triple Rey",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Triple hamburguesa 125 gr. Con cheddar, bacon y cebolla asada",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.944"
+              },
+              "accessory_main_label": {
+                "text": "80",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246734468&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 14,
+                  "item_id": "MLA1246734468",
+                  "name": "Hamburguesa Triple Rey",
+                  "price": "$ 1.944.80",
+                  "category": "hamburguesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "hamburguesas del rey",
+            "type": "list",
+            "index": 6
+          }
+        }
+      },
+      {
+        "id": "lomitos del rey",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Lomitos del Rey",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246618947",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lomito Supremo"
+              ],
+              "title": {
+                "text": "Lomito Supremo",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sandwich de lomito o bondiola 175gr. Con lechuga, tomate, queso y huevo",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.650"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246618947&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246618947",
+                  "name": "Lomito Supremo",
+                  "price": "$ 1.650",
+                  "category": "lomitos del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206820",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lomito Boston Blue"
+              ],
+              "title": {
+                "text": "Lomito Boston Blue",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de lomito o bondiola 180 gr. Con roquefort gratinado y rúcula",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.601"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206820&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246206820",
+                  "name": "Lomito Boston Blue",
+                  "price": "$ 1.601.60",
+                  "category": "lomitos del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753777",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lomito California"
+              ],
+              "title": {
+                "text": "Lomito California",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de lomito o bondiola 175 gr. Con guacamole, cheddar y aros de cebolla fritos",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.800"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753777&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246753777",
+                  "name": "Lomito California",
+                  "price": "$ 1.800",
+                  "category": "lomitos del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246618948",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lomito Del Rey"
+              ],
+              "title": {
+                "text": "Lomito Del Rey",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de lomito o bondiola 175 gr. Con cheddar, bacon y cebolla asada",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.750"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246618948&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246618948",
+                  "name": "Lomito Del Rey",
+                  "price": "$ 1.750",
+                  "category": "lomitos del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753778",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lomito Florida"
+              ],
+              "title": {
+                "text": "Lomito Florida",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de lomito o bondiola 175 gr. Con cheddar, roquefort, queso dambo y parmesano",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.601"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753778&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246753778",
+                  "name": "Lomito Florida",
+                  "price": "$ 1.601.60",
+                  "category": "lomitos del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638347",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lomito Porteño"
+              ],
+              "title": {
+                "text": "Lomito Porteño",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de milanesa con queso dambo y huevo a la plancha",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.600"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638347&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 5,
+                  "item_id": "MLA1246638347",
+                  "name": "Lomito Porteño",
+                  "price": "$ 1.600",
+                  "category": "lomitos del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239035",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lomitos Guadalajara"
+              ],
+              "title": {
+                "text": "Lomitos Guadalajara",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de lomito o bondiola 175 gr. Con guacamole, nachos, cheddar y salsa picante",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.750"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239035&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 6,
+                  "item_id": "MLA1246239035",
+                  "name": "Lomitos Guadalajara",
+                  "price": "$ 1.750",
+                  "category": "lomitos del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "lomitos del rey",
+            "type": "list",
+            "index": 7
+          }
+        }
+      },
+      {
+        "id": "milanesas del rey",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Milanesas del Rey",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246206821",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Sándwich De Milanesa Boston Blue"
+              ],
+              "title": {
+                "text": "Sándwich De Milanesa Boston Blue",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de milanesa de pollo o carne. Con roquefort gratinado y rúcula",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.450"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206821&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246206821",
+                  "name": "Sándwich De Milanesa Boston Blue",
+                  "price": "$ 1.450",
+                  "category": "milanesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689718",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Sándwich De Milanesa California"
+              ],
+              "title": {
+                "text": "Sándwich De Milanesa California",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de milanesa de pollo o carne. Con guacamole, cheddar y aros de cebolla fritos",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.400"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689718&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246689718",
+                  "name": "Sándwich De Milanesa California",
+                  "price": "$ 1.400",
+                  "category": "milanesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239036",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Sándwich De Milanesa Del Rey"
+              ],
+              "title": {
+                "text": "Sándwich De Milanesa Del Rey",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de milanesa de pollo o carne con cheddar, bacon y cebolla asada",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.450"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239036&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246239036",
+                  "name": "Sándwich De Milanesa Del Rey",
+                  "price": "$ 1.450",
+                  "category": "milanesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246670671",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Sándwich De Milanesa Florida"
+              ],
+              "title": {
+                "text": "Sándwich De Milanesa Florida",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de milanesa de pollo o carne con cheddar, roquefort, queso dambo y parmesano",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.372"
+              },
+              "accessory_main_label": {
+                "text": "80",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670671&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246670671",
+                  "name": "Sándwich De Milanesa Florida",
+                  "price": "$ 1.372.80",
+                  "category": "milanesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638349",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Sándwich De Milanesa Guadalajara"
+              ],
+              "title": {
+                "text": "Sándwich De Milanesa Guadalajara",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de milanesa de pollo o carne. Con guacamole, nachos, cheddar y salsa picante",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.372"
+              },
+              "accessory_main_label": {
+                "text": "80",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638349&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246638349",
+                  "name": "Sándwich De Milanesa Guadalajara",
+                  "price": "$ 1.372.80",
+                  "category": "milanesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246200411",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Sándwich De Milanesa Porteño"
+              ],
+              "title": {
+                "text": "Sándwich De Milanesa Porteño",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sándwich de milanesa de pollo o carne. Con queso dambo y huevo a la plancha",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.400"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200411&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 5,
+                  "item_id": "MLA1246200411",
+                  "name": "Sándwich De Milanesa Porteño",
+                  "price": "$ 1.400",
+                  "category": "milanesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206822",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Sándwich De Milanesa Supremo"
+              ],
+              "title": {
+                "text": "Sándwich De Milanesa Supremo",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sandwich de milanesa de pollo o carne. Con lechuga, tomate, queso y huevo",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.350"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206822&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 6,
+                  "item_id": "MLA1246206822",
+                  "name": "Sándwich De Milanesa Supremo",
+                  "price": "$ 1.350",
+                  "category": "milanesas del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "milanesas del rey",
+            "type": "list",
+            "index": 8
+          }
+        }
+      },
+      {
+        "id": "hot dogs del rey",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Hot Dogs del Rey",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246200412",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog Sidney"
+              ],
+              "title": {
+                "text": "Hot Dog Sidney",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con berenjenas al escabeche, queso dambo gratinado y cebolla caramelizada",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 820"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200412&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246200412",
+                  "name": "Hot Dog Sidney",
+                  "price": "Desde $ 820",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246734471",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog Madrid"
+              ],
+              "title": {
+                "text": "Hot Dog Madrid",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog  con provoleta, morrones asados y rúcula",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 820"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246734471&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246734471",
+                  "name": "Hot Dog Madrid",
+                  "price": "Desde $ 820",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219668",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog Amsterdam"
+              ],
+              "title": {
+                "text": "Hot Dog Amsterdam",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con  queso dambo, tomate, rúcula y 1 bastón de muzzarella",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 792"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219668&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246219668",
+                  "name": "Hot Dog Amsterdam",
+                  "price": "Desde $ 792",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219669",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog Buenos Aires"
+              ],
+              "title": {
+                "text": "Hot Dog Buenos Aires",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con salsa criolla, queso dambo gratinado y huevo a la plancha",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 820"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219669&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246219669",
+                  "name": "Hot Dog Buenos Aires",
+                  "price": "Desde $ 820",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753780",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog Londres"
+              ],
+              "title": {
+                "text": "Hot Dog Londres",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con roquefort, rúcula y cebolla morada",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 792"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753780&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246753780",
+                  "name": "Hot Dog Londres",
+                  "price": "Desde $ 792",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753782",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog Nápoles"
+              ],
+              "title": {
+                "text": "Hot Dog Nápoles",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con muzzarella fundida, albahaca y tomate",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 792"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753782&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 5,
+                  "item_id": "MLA1246753782",
+                  "name": "Hot Dog Nápoles",
+                  "price": "Desde $ 792",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239038",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog París 4 Quesos"
+              ],
+              "title": {
+                "text": "Hot Dog París 4 Quesos",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con 4 quesos: cheddar, muzzarella, dambo y roquefort",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 792"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239038&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 6,
+                  "item_id": "MLA1246239038",
+                  "name": "Hot Dog París 4 Quesos",
+                  "price": "Desde $ 792",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689722",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog Texas"
+              ],
+              "title": {
+                "text": "Hot Dog Texas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con guacamole, y aros de cebolla rebozados",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 792"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689722&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 7,
+                  "item_id": "MLA1246689722",
+                  "name": "Hot Dog Texas",
+                  "price": "Desde $ 792",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246200413",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog Mexicano"
+              ],
+              "title": {
+                "text": "Hot Dog Mexicano",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con mayonesa picante, cheddar y nachos",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 792"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200413&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 8,
+                  "item_id": "MLA1246200413",
+                  "name": "Hot Dog Mexicano",
+                  "price": "Desde $ 792",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689723",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hot Dog New York"
+              ],
+              "title": {
+                "text": "Hot Dog New York",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hot dog con salsa abig, cheddar y aros de cebolla morada",
+                "text_color": "#8C8C8C"
+              },
+              "main_top_label": {
+                "text": "Desde",
+                "text_color": "#000000",
+                "background_color": "#ffffff",
+                "strikethrough": false
+              },
+              "main_label": {
+                "text": "$ 792"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689723&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 9,
+                  "item_id": "MLA1246689723",
+                  "name": "Hot Dog New York",
+                  "price": "Desde $ 792",
+                  "category": "hot dogs del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "hot dogs del rey",
+            "type": "list",
+            "index": 9
+          }
+        }
+      },
+      {
+        "id": "combos veggie",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Combos Veggie",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246239039",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Combo Hamb Veggie Lentejas Napoles + Papas Chicas"
+              ],
+              "title": {
+                "text": "Combo Hamb Veggie Lentejas Napoles + Papas Chicas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa de lentejas con curry con queso gratinado, albahaca y tomate acompañada de una porción de papas fritas chica.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.258"
+              },
+              "accessory_main_label": {
+                "text": "40",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239039&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246239039",
+                  "name": "Combo Hamb Veggie Lentejas Napoles + Papas Chicas",
+                  "price": "$ 1.258.40",
+                  "category": "combos veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638351",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Combo Hamb Veggie Madrid + Papas Chicas"
+              ],
+              "title": {
+                "text": "Combo Hamb Veggie Madrid + Papas Chicas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa veggie con provoleta, morrones asados, rúcula acompañada de una porción de papas fritas chica.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.258"
+              },
+              "accessory_main_label": {
+                "text": "40",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638351&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246638351",
+                  "name": "Combo Hamb Veggie Madrid + Papas Chicas",
+                  "price": "$ 1.258.40",
+                  "category": "combos veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "combos veggie",
+            "type": "list",
+            "index": 10
+          }
+        }
+      },
+      {
+        "id": "hamburguesas veggie",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Hamburguesas Veggie",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246670672",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Sidney+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Sidney+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con berenjenas al escabeche, queso dambo gratinado y cebolla caramelizada. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.315"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670672&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246670672",
+                  "name": "Hamb Veggie Sidney+ Papas Pequeñas",
+                  "price": "$ 1.315.60",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246200415",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Madrid+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Madrid+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con provoleta, morrones asados y rúcula. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.250"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200415&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246200415",
+                  "name": "Hamb Veggie Madrid+ Papas Pequeñas",
+                  "price": "$ 1.250",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246734473",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Amsterdam+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Amsterdam+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con queso dambo, tomate, rúcula y 1 bastón de muzzarella. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.315"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246734473&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246734473",
+                  "name": "Hamb Veggie Amsterdam+ Papas Pequeñas",
+                  "price": "$ 1.315.60",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246734474",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Buenos Aires+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Buenos Aires+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con salsa criolla, queso dambro gratinado y huevo a la plancha. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 2.631"
+              },
+              "accessory_main_label": {
+                "text": "20",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246734474&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246734474",
+                  "name": "Hamb Veggie Buenos Aires+ Papas Pequeñas",
+                  "price": "$ 2.631.20",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753783",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Londres+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Londres+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con roquefort, rúcula y cebolla morada. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.315"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753783&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246753783",
+                  "name": "Hamb Veggie Londres+ Papas Pequeñas",
+                  "price": "$ 1.315.60",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239040",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Napoles+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Napoles+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con muzzarella fundida, albahaca y tomate. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.315"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239040&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 5,
+                  "item_id": "MLA1246239040",
+                  "name": "Hamb Veggie Napoles+ Papas Pequeñas",
+                  "price": "$ 1.315.60",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638353",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Paris+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Paris+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con 4 quesos: cheddar, dambo, muzzarella y roquefort. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.315"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638353&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 6,
+                  "item_id": "MLA1246638353",
+                  "name": "Hamb Veggie Paris+ Papas Pequeñas",
+                  "price": "$ 1.315.60",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689725",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Texas+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Texas+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con guacamole y aros de cebolla rebozados. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.315"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689725&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 7,
+                  "item_id": "MLA1246689725",
+                  "name": "Hamb Veggie Texas+ Papas Pequeñas",
+                  "price": "$ 1.315.60",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239042",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie Mexicana+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie Mexicana+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a elección con mayonesa picante, cheddar y nachos. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.315"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239042&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 8,
+                  "item_id": "MLA1246239042",
+                  "name": "Hamb Veggie Mexicana+ Papas Pequeñas",
+                  "price": "$ 1.315.60",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689726",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Hamb Veggie New York+ Papas Pequeñas"
+              ],
+              "title": {
+                "text": "Hamb Veggie New York+ Papas Pequeñas",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Hamburguesa a alección con salsa big, doble cheddar y aros de cebolla morada. Acompañado de papas fritas.",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.315"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689726&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 9,
+                  "item_id": "MLA1246689726",
+                  "name": "Hamb Veggie New York+ Papas Pequeñas",
+                  "price": "$ 1.315.60",
+                  "category": "hamburguesas veggie",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "hamburguesas veggie",
+            "type": "list",
+            "index": 11
+          }
+        }
+      },
+      {
+        "id": "acompañamientos",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Acompañamientos",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246618953",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas A Caballo Grandes"
+              ],
+              "title": {
+                "text": "Papas A Caballo Grandes",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 1.350"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246618953&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246618953",
+                  "name": "Papas A Caballo Grandes",
+                  "price": "$ 1.350",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219671",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Nuggets De Pollo X 20"
+              ],
+              "title": {
+                "text": "Nuggets De Pollo X 20",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 1.380"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219671&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246219671",
+                  "name": "Nuggets De Pollo X 20",
+                  "price": "$ 1.380",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246200417",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Aros De Cebolla Chicos"
+              ],
+              "title": {
+                "text": "Aros De Cebolla Chicos",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Aros De Cebolla Chicos x 8 unidades",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 750"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200417&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246200417",
+                  "name": "Aros De Cebolla Chicos",
+                  "price": "$ 750",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246618952",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas Grandes Con Cheddar"
+              ],
+              "title": {
+                "text": "Papas Grandes Con Cheddar",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 1.200"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246618952&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246618952",
+                  "name": "Papas Grandes Con Cheddar",
+                  "price": "$ 1.200",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689728",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas Rey Grandes"
+              ],
+              "title": {
+                "text": "Papas Rey Grandes",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 1.350"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689728&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246689728",
+                  "name": "Papas Rey Grandes",
+                  "price": "$ 1.350",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206827",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas A Caballo Chicas"
+              ],
+              "title": {
+                "text": "Papas A Caballo Chicas",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 894"
+              },
+              "accessory_main_label": {
+                "text": "40",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206827&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 5,
+                  "item_id": "MLA1246206827",
+                  "name": "Papas A Caballo Chicas",
+                  "price": "$ 894.40",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246200416",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Nuggets De Pollo X 10"
+              ],
+              "title": {
+                "text": "Nuggets De Pollo X 10",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Nuggets De Pollo X 10",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 750"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200416&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 6,
+                  "item_id": "MLA1246200416",
+                  "name": "Nuggets De Pollo X 10",
+                  "price": "$ 750",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239045",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Aros De Cebolla Grandes"
+              ],
+              "title": {
+                "text": "Aros De Cebolla Grandes",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Aros De Cebolla Grandes X 16 UNIDADES",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 1.258"
+              },
+              "accessory_main_label": {
+                "text": "40",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239045&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 7,
+                  "item_id": "MLA1246239045",
+                  "name": "Aros De Cebolla Grandes",
+                  "price": "$ 1.258.40",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689729",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Bastones De Muzza X 4"
+              ],
+              "title": {
+                "text": "Bastones De Muzza X 4",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 790"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689729&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 8,
+                  "item_id": "MLA1246689729",
+                  "name": "Bastones De Muzza X 4",
+                  "price": "$ 790",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206828",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Bastones De Muzza X 8"
+              ],
+              "title": {
+                "text": "Bastones De Muzza X 8",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 1.300"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206828&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 9,
+                  "item_id": "MLA1246206828",
+                  "name": "Bastones De Muzza X 8",
+                  "price": "$ 1.300",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689727",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas Rey Chicas"
+              ],
+              "title": {
+                "text": "Papas Rey Chicas",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 900"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689727&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 10,
+                  "item_id": "MLA1246689727",
+                  "name": "Papas Rey Chicas",
+                  "price": "$ 900",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638355",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas 4 Quesos Chicas"
+              ],
+              "title": {
+                "text": "Papas 4 Quesos Chicas",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 750"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638355&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 11,
+                  "item_id": "MLA1246638355",
+                  "name": "Papas 4 Quesos Chicas",
+                  "price": "$ 750",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753785",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas 4 Quesos Grandes"
+              ],
+              "title": {
+                "text": "Papas 4 Quesos Grandes",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 1.086"
+              },
+              "accessory_main_label": {
+                "text": "80",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753785&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 12,
+                  "item_id": "MLA1246753785",
+                  "name": "Papas 4 Quesos Grandes",
+                  "price": "$ 1.086.80",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246670673",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Nuggets X 10 Con Cheddar"
+              ],
+              "title": {
+                "text": "Nuggets X 10 Con Cheddar",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 800"
+              },
+              "accessory_main_label": {
+                "text": "80",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670673&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 13,
+                  "item_id": "MLA1246670673",
+                  "name": "Nuggets X 10 Con Cheddar",
+                  "price": "$ 800.80",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219670",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas Fritas Chicas"
+              ],
+              "title": {
+                "text": "Papas Fritas Chicas",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 450"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219670&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 14,
+                  "item_id": "MLA1246219670",
+                  "name": "Papas Fritas Chicas",
+                  "price": "$ 450",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206826",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas Chicas Con Cheddar"
+              ],
+              "title": {
+                "text": "Papas Chicas Con Cheddar",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 800"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206826&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 15,
+                  "item_id": "MLA1246206826",
+                  "name": "Papas Chicas Con Cheddar",
+                  "price": "$ 800",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219673",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Nuggets X 20 Con Cheddar"
+              ],
+              "title": {
+                "text": "Nuggets X 20 Con Cheddar",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 1.500"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219673&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 16,
+                  "item_id": "MLA1246219673",
+                  "name": "Nuggets X 20 Con Cheddar",
+                  "price": "$ 1.500",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206825",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Papas Fritas Grandes"
+              ],
+              "title": {
+                "text": "Papas Fritas Grandes",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 700"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206825&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 17,
+                  "item_id": "MLA1246206825",
+                  "name": "Papas Fritas Grandes",
+                  "price": "$ 700",
+                  "category": "acompañamientos",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "acompañamientos",
+            "type": "list",
+            "index": 12
+          }
+        }
+      },
+      {
+        "id": "dips especiales del rey",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Dips Especiales del Rey",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246689730",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Dips Cheddar Especial"
+              ],
+              "title": {
+                "text": "Dips Cheddar Especial",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 200"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689730&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246689730",
+                  "name": "Dips Cheddar Especial",
+                  "price": "$ 200",
+                  "category": "dips especiales del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219674",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Dips Mayonesa Con Ajo"
+              ],
+              "title": {
+                "text": "Dips Mayonesa Con Ajo",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 200"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219674&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246219674",
+                  "name": "Dips Mayonesa Con Ajo",
+                  "price": "$ 200",
+                  "category": "dips especiales del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246200418",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Dips Mostaza Dulce"
+              ],
+              "title": {
+                "text": "Dips Mostaza Dulce",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 200"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200418&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246200418",
+                  "name": "Dips Mostaza Dulce",
+                  "price": "$ 200",
+                  "category": "dips especiales del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206829",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Dips Barbacoa Especial"
+              ],
+              "title": {
+                "text": "Dips Barbacoa Especial",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 171"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206829&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246206829",
+                  "name": "Dips Barbacoa Especial",
+                  "price": "$ 171.60",
+                  "category": "dips especiales del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239046",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Dips Salsa Picante"
+              ],
+              "title": {
+                "text": "Dips Salsa Picante",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 171"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239046&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246239046",
+                  "name": "Dips Salsa Picante",
+                  "price": "$ 171.60",
+                  "category": "dips especiales del rey",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "dips especiales del rey",
+            "type": "list",
+            "index": 13
+          }
+        }
+      },
+      {
+        "id": "postres",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Postres",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246670674",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Copa Oreo Para Compartir"
+              ],
+              "title": {
+                "text": "Copa Oreo Para Compartir",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Base de galletitas oreo, dulce de leche y crema",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 900"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670674&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246670674",
+                  "name": "Copa Oreo Para Compartir",
+                  "price": "$ 900",
+                  "category": "postres",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246219676",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Chocotorta Para Compartir"
+              ],
+              "title": {
+                "text": "Chocotorta Para Compartir",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Postre de galletitas chocolinas con dulce de leche",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 900"
+              },
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246219676&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246219676",
+                  "name": "Chocotorta Para Compartir",
+                  "price": "$ 900",
+                  "category": "postres",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "postres",
+            "type": "list",
+            "index": 14
+          }
+        }
+      },
+      {
+        "id": "gaseosas",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Gaseosas",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246638358",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Pepsi Original"
+              ],
+              "title": {
+                "text": "Lata Pepsi Original",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 390"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_694067-MLA52688843997_122022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638358&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246638358",
+                  "name": "Lata Pepsi Original",
+                  "price": "$ 390",
+                  "image": "https://http2.mlstatic.com/D_NQ_694067-MLA52688843997_122022-C.jpg",
+                  "category": "gaseosas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246206830",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Pepsi Black"
+              ],
+              "title": {
+                "text": "Lata Pepsi Black",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 377"
+              },
+              "accessory_main_label": {
+                "text": "52",
+                "text_color": "#333333"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_703353-MLA52582284742_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246206830&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246206830",
+                  "name": "Lata Pepsi Black",
+                  "price": "$ 377.52",
+                  "image": "https://http2.mlstatic.com/D_NQ_703353-MLA52582284742_112022-C.jpg",
+                  "category": "gaseosas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246753788",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata 7up"
+              ],
+              "title": {
+                "text": "Lata 7up",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 390"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_626552-MLA52581504881_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246753788&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246753788",
+                  "name": "Lata 7up",
+                  "price": "$ 390",
+                  "image": "https://http2.mlstatic.com/D_NQ_626552-MLA52581504881_112022-C.jpg",
+                  "category": "gaseosas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246200419",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Paso De Los Toros"
+              ],
+              "title": {
+                "text": "Lata Paso De Los Toros",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 390"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_667724-MLA52582167246_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200419&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246200419",
+                  "name": "Lata Paso De Los Toros",
+                  "price": "$ 390",
+                  "image": "https://http2.mlstatic.com/D_NQ_667724-MLA52582167246_112022-C.jpg",
+                  "category": "gaseosas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246734476",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Botella 1.5 Pepsi"
+              ],
+              "title": {
+                "text": "Botella 1.5 Pepsi",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 690"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_748825-MLA52581470724_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246734476&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246734476",
+                  "name": "Botella 1.5 Pepsi",
+                  "price": "$ 690",
+                  "image": "https://http2.mlstatic.com/D_NQ_748825-MLA52581470724_112022-C.jpg",
+                  "category": "gaseosas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638359",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Botella 1.5 Pepsi Black"
+              ],
+              "title": {
+                "text": "Botella 1.5 Pepsi Black",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 686"
+              },
+              "accessory_main_label": {
+                "text": "40",
+                "text_color": "#333333"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_678712-MLA52579547796_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638359&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 5,
+                  "item_id": "MLA1246638359",
+                  "name": "Botella 1.5 Pepsi Black",
+                  "price": "$ 686.40",
+                  "image": "https://http2.mlstatic.com/D_NQ_678712-MLA52579547796_112022-C.jpg",
+                  "category": "gaseosas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689731",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Botella 1.5 7up"
+              ],
+              "title": {
+                "text": "Botella 1.5 7up",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 690"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_696010-MLA52688749001_122022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689731&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 6,
+                  "item_id": "MLA1246689731",
+                  "name": "Botella 1.5 7up",
+                  "price": "$ 690",
+                  "image": "https://http2.mlstatic.com/D_NQ_696010-MLA52688749001_122022-C.jpg",
+                  "category": "gaseosas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246670678",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Botellla 1.5 Paso De Los Toros"
+              ],
+              "title": {
+                "text": "Botellla 1.5 Paso De Los Toros",
+                "text_color": "#333333"
+              },
+              "subtitle": {
+                "text": "Sabor Pomelo",
+                "text_color": "#8C8C8C"
+              },
+              "main_label": {
+                "text": "$ 686"
+              },
+              "accessory_main_label": {
+                "text": "40",
+                "text_color": "#333333"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_794930-MLA52689560838_122022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670678&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 7,
+                  "item_id": "MLA1246670678",
+                  "name": "Botellla 1.5 Paso De Los Toros",
+                  "price": "$ 686.40",
+                  "image": "https://http2.mlstatic.com/D_NQ_794930-MLA52689560838_122022-C.jpg",
+                  "category": "gaseosas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "gaseosas",
+            "type": "list",
+            "index": 15
+          }
+        }
+      },
+      {
+        "id": "cervezas",
+        "type": "list",
+        "content": {
+          "filterable": true,
+          "header": {
+            "title": "Cervezas",
+            "title_pinned": false
+          },
+          "items": [
+            {
+              "id": "MLA1246200421",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Quilmes 500cc"
+              ],
+              "title": {
+                "text": "Lata Quilmes 500cc",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 450"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_912298-MLA52582122457_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246200421&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 0,
+                  "item_id": "MLA1246200421",
+                  "name": "Lata Quilmes 500cc",
+                  "price": "$ 450",
+                  "image": "https://http2.mlstatic.com/D_NQ_912298-MLA52582122457_112022-C.jpg",
+                  "category": "cervezas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689732",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Brahma 500cc"
+              ],
+              "title": {
+                "text": "Lata Brahma 500cc",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 457"
+              },
+              "accessory_main_label": {
+                "text": "60",
+                "text_color": "#333333"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_723073-MLA52688504281_122022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689732&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 1,
+                  "item_id": "MLA1246689732",
+                  "name": "Lata Brahma 500cc",
+                  "price": "$ 457.60",
+                  "image": "https://http2.mlstatic.com/D_NQ_723073-MLA52688504281_122022-C.jpg",
+                  "category": "cervezas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246670680",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Andes Rubia 500cc"
+              ],
+              "title": {
+                "text": "Lata Andes Rubia 500cc",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 514"
+              },
+              "accessory_main_label": {
+                "text": "80",
+                "text_color": "#333333"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_623450-MLA52688814649_122022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246670680&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 2,
+                  "item_id": "MLA1246670680",
+                  "name": "Lata Andes Rubia 500cc",
+                  "price": "$ 514.80",
+                  "image": "https://http2.mlstatic.com/D_NQ_623450-MLA52688814649_122022-C.jpg",
+                  "category": "cervezas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246689733",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Andes Roja 500cc"
+              ],
+              "title": {
+                "text": "Lata Andes Roja 500cc",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 500"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_908245-MLA52578944960_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246689733&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 3,
+                  "item_id": "MLA1246689733",
+                  "name": "Lata Andes Roja 500cc",
+                  "price": "$ 500",
+                  "image": "https://http2.mlstatic.com/D_NQ_908245-MLA52578944960_112022-C.jpg",
+                  "category": "cervezas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246239048",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Andes Negra 500cc"
+              ],
+              "title": {
+                "text": "Lata Andes Negra 500cc",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 514"
+              },
+              "accessory_main_label": {
+                "text": "80",
+                "text_color": "#333333"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_980256-MLA52582630041_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246239048&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 4,
+                  "item_id": "MLA1246239048",
+                  "name": "Lata Andes Negra 500cc",
+                  "price": "$ 514.80",
+                  "image": "https://http2.mlstatic.com/D_NQ_980256-MLA52582630041_112022-C.jpg",
+                  "category": "cervezas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            },
+            {
+              "id": "MLA1246638360",
+              "searchable": true,
+              "enabled": true,
+              "template": "item_stack",
+              "searchable_text": [
+                "Nuevo",
+                "Lata Andes Ipa 500cc"
+              ],
+              "title": {
+                "text": "Lata Andes Ipa 500cc",
+                "text_color": "#333333"
+              },
+              "main_label": {
+                "text": "$ 500"
+              },
+              "image_url": "https://http2.mlstatic.com/D_NQ_920706-MLA52578824745_112022-C.jpg",
+              "link": "mercadopago://proximity_marketplace/item?item_id=MLA1246638360&skeleton_id=cover&brand_id=3135&latitude=-34.567013&longitude=-58.4577067&zipcode=1428&address_id=1267436794&store_id=48468881#from=/discount_center_payers/store",
+              "tracking": {
+                "tracking_id": "actionable_items",
+                "event_data": {
+                  "index": 5,
+                  "item_id": "MLA1246638360",
+                  "name": "Lata Andes Ipa 500cc",
+                  "price": "$ 500",
+                  "image": "https://http2.mlstatic.com/D_NQ_920706-MLA52578824745_112022-C.jpg",
+                  "category": "cervezas",
+                  "enabled": true,
+                  "store_id": 48468881,
+                  "collector_id": 726022974
+                }
+              }
+            }
+          ]
+        },
+        "tracking": {
+          "tracking_id": "actionable_filter",
+          "event_data": {
+            "id": "cervezas",
+            "type": "list",
+            "index": 16
+          }
+        }
+      }
+    ]
+  },
+  "footer": {
+    "action": {
+      "primary_text": {
+        "text": "Ver carrito",
+        "text_color": "#ffffff"
+      },
+      "secondary_text": {
+        "text_color": "#ffffff"
+      },
+      "amount": {
+        "number": 0,
+        "decimals": 0,
+        "symbol": "$",
+        "thousands_separator": ".",
+        "number_of_decimals": 2
+      },
+      "background_color": "#009EE3"
+    }
+  },
+  "history": {
+    "store_id": "48468881",
+    "product_type": "DELIVERY"
+  },
+  "tracking": {
+    "event_data_ga": {
+      "custom_dimensions": {
+        "context": {
+          "id": "80",
+          "name": "context",
+          "value": "PROXIMITY_MARKETPLACE_DELIVERY"
+        }
+      }
+    },
+    "path_ga": "/delivery/payers/vsp",
+    "path": "/discount_center/payers/vsp",
+    "product_type": "delivery",
+    "event_data": {
+      "context_info": {
+        "version_code": 2,
+        "version_name": "new vsp",
+        "has_catalog": true,
+        "has_cart": true,
+        "modal": {
+          "type": "far_from_address"
+        }
+      },
+      "store_cover": "https://http2.mlstatic.com/D_NQ_NP_904368-MLA51739319839_092022-O.jpg",
+      "store_discount": "$ 750 OFF · MÍNIMO $ 1.000",
+      "free_delivery": true,
+      "status": "active",
+      "status_reasons": [],
+      "store_id": 48468881,
+      "collector_id": 726022974,
+      "brand_id": 3135,
+      "name": "Rey Burger",
+      "distance": 2463,
+      "category": "Hamburguesa",
+      "mcc": "1007",
+      "discounts": [
+        {
+          "campaign_id": 10451805,
+          "index": 0,
+          "blocked": false,
+          "availability": "full",
+          "level": 1,
+          "amount_type": "fixed",
+          "amount": 750
+        }
+      ],
+      "delivery": {},
+      "review": {
+        "rating": 3.7,
+        "count": 265
+      }
+    }
+  },
+  "cart_info": {
+    "store_id": "48468881",
+    "address": {
+      "type": "address",
+      "value": "1267436794"
+    },
+    "tracking_info": {}
+  },
+  "address": {
+    "type": "address",
+    "value": "1267436794"
+  },
+  "modal": {
+    "title": "Tu pedido se enviará a lá pampa 2800. ¿Es correcto?",
+    "asset": {
+      "name": "delivery_far_from_address_modal",
+      "type": "IMAGE"
+    },
+    "actions": [
+      {
+        "id": "dismiss",
+        "label": "Sí, continuar",
+        "format": {
+          "text_color": "#ffffff",
+          "background_color": "#009EE3"
+        }
+      },
+      {
+        "id": "link",
+        "label": "No, cambiar dirección",
+        "link": "mercadopago://discount_center_payers/addresses_hub?address_id=1267436794&refresh=true",
+        "format": {
+          "text_color": "#009EE3",
+          "background_color": "#ffffff"
+        }
+      }
+    ],
+    "tracking": {
+      "type": "far_from_address"
+    }
+  },
+  "_persistence": {
+    "parameters": [
+      {
+        "type": "QUERY",
+        "name": "store_id"
+      },
+      {
+        "type": "QUERY",
+        "name": "product_type"
+      },
+      {
+        "type": "QUERY",
+        "name": "content_type"
+      }
+    ],
+    "exclude": [
+      "address",
+      "cart_info",
+      "footer",
+      "modal",
+      "lock",
+      "user_redirect",
+      "message",
+      "delete_cart_modal",
+      "catalog.groups.content.items.secondary_label",
+      "catalog.groups.content.items.main_label",
+      "catalog.groups.content.items.top_label",
+      "catalog.groups.content.items.tracking",
+      "catalog.groups.content.items.button",
+      "catalog.groups.tracking",
+      "history",
+      "tracking",
+      "main_description.sections.[1].content"
+    ],
+    "expiration": "2023-01-26T11:10:41.895-0400"
+  },
+  "sections": []
+}
